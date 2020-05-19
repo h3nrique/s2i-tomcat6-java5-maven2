@@ -4,7 +4,7 @@ S2I Image Builder for building with Maven2 and running Java 5 applications on To
 
 First Step
 ---
-Before you build this image, it's necessary (download Java 5)[https://www.oracle.com/java/technologies/java-archive-javase5-downloads.html] installer file (jdk-1_5_0_22-linux-amd64.bin), put on java-installer directory and create sha256 file (user command `sha256sum jdk-1_5_0_22-linux-amd64.bin > jdk-1_5_0_22-linux-amd64.bin.sha256`).
+Before you build this image, it's necessary [download Java 5](https://www.oracle.com/java/technologies/java-archive-javase5-downloads.html) installer file (jdk-1_5_0_22-linux-amd64.bin), put on java-installer directory and create sha256 file (user command `sha256sum jdk-1_5_0_22-linux-amd64.bin > jdk-1_5_0_22-linux-amd64.bin.sha256`).
 
 Local Docker build
 ---
